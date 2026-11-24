@@ -1,0 +1,14 @@
+[
+  {
+    "text": "log:message",
+    "prefix": "log:"
+  },
+  {
+    "text": "login",
+    "prefix": "log:"
+  },
+  {
+    "text": "ababx",
+    "prefix": "ab"
+  }
+]
